@@ -12,6 +12,7 @@
 
 # Define main function 
 def main():
+    print()
     pass
 
 if __name__ == "__main__":
